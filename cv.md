@@ -19,3 +19,21 @@ A disciplined novice developer. I study new technologies and tools, constantly i
 
 ### Web-developer course Udemy
 ### JavaScript and React course Udemy
+
+## Skills
+> HTML
+
+> CSS
+
+> JavaScript  
+
+>CS Photoshop
+
+>Sony Vegas
+
+## Languages
+
+* Russian - native speaker
+* English - B1
+* Georgian - A1
+* Polish - A1
